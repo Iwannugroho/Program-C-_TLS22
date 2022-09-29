@@ -1,2 +1,4 @@
 # Program-C-_TLS22
-Iwan Nugroho_Faraday
+Nama      : Iwan Nugroho
+Kelompok  : Faraday
+
